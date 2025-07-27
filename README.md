@@ -11,8 +11,8 @@ Projeto da disciplina de Introdução à Ciência de Dados, no qual vamos analis
 
 Utilizaremos a API OpenF1 https://openf1.org/ para analisar a telemetria dos carros, focando em voltas rápidas de qualificação. Nosso objetivo é identificar qual combinação de estilo de frenagem e configuração do carro resulta em maior velocidade e menor tempo de volta.
 
-"Com foco em analisar a frenagem em uma longa reta seguida de uma curva, coletaremos dados cruciais como velocidade, pressão de freio, posição do acelerador e telemetria espacial e temporal. 
-Para garantir a relevância dos nossos dados, selecionaremos especificamente as seções dos circuitos que permitam frenagens a partir da velocidade máxima dos carros, minimizando assim as variações de potência entre diferentes veículos."
+Com foco em analisar a frenagem em uma longa reta seguida de uma curva, coletaremos dados cruciais como velocidade, pressão de freio, posição do acelerador e telemetria espacial e temporal. 
+Para garantir a relevância dos nossos dados, selecionaremos especificamente as seções dos circuitos que permitam frenagens a partir da velocidade máxima dos carros, minimizando assim as variações de potência entre diferentes veículos.
 
 ---
 ## Objetivo
