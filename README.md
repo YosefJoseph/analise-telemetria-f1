@@ -13,6 +13,9 @@ Foi gerado um arquivo .csv para cada etapa com as velocidades médias de cada pi
 
 ---
 ## O Processo de coleta
+
+Foi utilizada a API Openf1.org
+
 Cada curva foi selecionada a partir da escolha manual após utilizarmos um piloto como exemplo, selecionando a área que compreenda a curva.
 
 Para garantir a avaliação de forma similar a cada piloto, foram selecionadas suas voltas mais rápidas em sessões de qualificação, padronizando assim cada volta como o desempenho máximo demonstrado pelo piloto e eliminando fatores externo como peso de combustível, desgaste dos pneus e carga da bateria ( completamente carregada, sem acarretar em perda de desempenho do motor principal).
