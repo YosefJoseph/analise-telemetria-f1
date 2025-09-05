@@ -8,7 +8,9 @@ Projeto da disciplina de Introdução à Ciência de Dados, no qual vamos analis
 *   YOSEF JOSEPH GONCALVES DO NASCIMENTO
 ---
 ## O conjunto de dados
+
 Foi gerado um arquivo .csv para cada etapa com as velocidades médias de cada piloto nas curvas selecionadas, em km/h. 
+
 ---
 ## O Processo de coleta
 Cada curva foi selecionada a partir da escolha manual após utilizarmos um piloto como exemplo, selecionando a área que compreenda a curva.
@@ -67,6 +69,7 @@ Red Bull Racing é a equipe a qual o piloto faz parte.
 
 269.15155887391904 é a velocidade média na quinta curva selecionada.
 
+---
 ## Para uma futura análise dos dados
 
 Podemos analisar a dispersão das velocidade para cada curva, verificando quais pilotos apresentam desempenho favorável a quais tipos de curva.
