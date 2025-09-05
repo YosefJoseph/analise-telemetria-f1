@@ -84,3 +84,8 @@ Podemos analisar a dispersão das velocidade para cada curva, verificando quais 
 Para uma análise mais completa, é necessário verificar a posição final de qualificação de cada piloto, e também fatores climáticos como chuva no dia da qualificação ou no dia da seguinte, impactando o ajuste dos carros.
 
 Com base nos dados, é possível estimar a posição de largada de cada piloto utilizando regressão linear.
+
+
+## Google drive com os .csv:
+
+https://drive.google.com/drive/folders/1wugaWdI3Cy4_QX465KNFFWp5y6M6zwhj?usp=sharing
