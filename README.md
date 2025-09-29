@@ -83,13 +83,13 @@ Q2 é a fase da qualificação na qual a volta mais rápida foi realizada.
 ---
 ## Dificuldades e Limitações:
 
-Cada curva é delimitada apenas pela velocidade média de um piloto em seu comprimento. Poderiam ser adicionados outros fatores como ponto de frenagem, velocidades de entrada, saída e mínima, ou ainda, desaceleração ou acelerações médias. Todas essas variáveis podem contribuir para a caracterização de cada curva e o consequente agrupamento utilizando o Kmeans.
+* Cada curva é delimitada apenas pela velocidade média de um piloto em seu comprimento. Poderiam ser adicionados outros fatores como ponto de frenagem, velocidades de entrada, saída e mínima, ou ainda, desaceleração ou acelerações médias. Todas essas variáveis podem contribuir para a caracterização de cada curva e o consequente agrupamento utilizando o Kmeans.
 
-As curvas são selecionadas por meio do recorte da área do circuito, demandando visualização e estimativa para as selecionar, além de ser um processo limitado e pouco escalável. Além disso, é um processo que enfrenta dificuldades quando um circuito possui passagens próximas, como em Jeddah e Monte Carlo, ou que se cruzam, como em Suzuka.
+* As curvas são selecionadas por meio do recorte da área do circuito, demandando visualização e estimativa para as selecionar, além de ser um processo limitado e pouco escalável. Além disso, é um processo que enfrenta dificuldades quando um circuito possui passagens próximas, como em Jeddah e Monte Carlo, ou que se cruzam, como em Suzuka.
 
-O modelo de regressão linear é básico, levando em consideração somente a velocidade média das curvas selecionadas, o que resulta em etapas com previsibilidade variada, mesmo em um circuitos iguais. O uso de regressão linear múltipla pode melhorar a previsibilidade, além do uso da categorização das curvas. 
+* O modelo de regressão linear é básico, levando em consideração somente a velocidade média das curvas selecionadas, o que resulta em etapas com previsibilidade variada, mesmo em um circuitos iguais. O uso de regressão linear múltipla pode melhorar a previsibilidade, além do uso da categorização das curvas. 
 
-Em razão de diversos motivos, como acidentes ou falhas técnicas, certos pilotos como Ollie Bearman em Melbourne e Yuki Tsunoda em Imola e George Russell em Miami não foram avaliados pois seus dataframes de posição estão vazios.
+* Em razão de diversos motivos, como acidentes ou falhas técnicas, certos pilotos como Ollie Bearman em Melbourne e Yuki Tsunoda em Imola e George Russell em Miami não foram avaliados pois seus dataframes de posição estão vazios.
 
 
 ## Google drive com os .csv:
